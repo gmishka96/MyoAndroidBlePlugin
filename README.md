@@ -3,3 +3,5 @@ This is a custom Android plugin developed for a Unity application for Android in
 It starts a foreground service that attempts to connect, read and write GATT characteristics and subscribe to notificaitons.
 
 The plugin was built and used for this application: https://github.com/gmishka96/MyoArmband3DMobile
+
+Almost same plugin functionality was used in this project: https://github.com/gmishka96/MyoMario
